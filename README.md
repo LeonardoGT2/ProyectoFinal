@@ -1,4 +1,3 @@
-# ProyectoFinal
 # Control de gastos - Proyecto final de Programación 2 (UMG)
 
 App de control de gastos e ingresos en Kotlin: registra movimientos, calcula el balance de cada mes y avisa cuando vas en negativo.
