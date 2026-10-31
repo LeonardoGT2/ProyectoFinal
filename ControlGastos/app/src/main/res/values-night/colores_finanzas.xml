@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema OSCURO -->
+    <color name="fondo">#191C1A</color>
+    <color name="tarjeta">#242826</color>
+    <color name="borde">#404943</color>
+    <color name="texto">#E1E3DF</color>
+    <color name="texto_suave">#A9B4AD</color>
+    <color name="primario">#6CDBAC</color>
+    <color name="sobre_primario">#003826</color>
+    <color name="ingreso">#6CDBAC</color>
+    <color name="gasto">#FFB4AB</color>
+    <color name="badge_ingreso_bg">#005138</color>
+    <color name="badge_gasto_bg">#93000A</color>
+
+    <color name="estado_pos_bg">#005138</color>
+    <color name="estado_pos_fg">#89F8C7</color>
+    <color name="estado_cui_bg">#5C3A00</color>
+    <color name="estado_cui_fg">#FFDDB3</color>
+    <color name="estado_neg_bg">#93000A</color>
+    <color name="estado_neg_fg">#FFDAD6</color>
+    <color name="estado_sin_bg">#404943</color>
+    <color name="estado_sin_fg">#E1E3DF</color>
+</resources>
